@@ -1,0 +1,50 @@
+[
+  {
+    "key": "长春114",
+    "latitude": 43.8171,
+    "longitude": 125.3235,
+    "name": "长春"
+  },
+  {
+    "key": "延吉114",
+    "latitude": 42.9094,
+    "longitude": 129.4719,
+    "name": "延吉"
+  },
+  {
+    "key": "通化114",
+    "latitude": 41.7284,
+    "longitude": 125.9397,
+    "name": "通化"
+  },
+  {
+    "key": "松原114",
+    "latitude": 45.1418,
+    "longitude": 124.8251,
+    "name": "松原"
+  },
+  {
+    "key": "白城114",
+    "latitude": 45.6196,
+    "longitude": 122.8388,
+    "name": "白城"
+  },
+  {
+    "key": "四平114",
+    "latitude": 43.1664,
+    "longitude": 124.3504,
+    "name": "四平"
+  },
+  {
+    "key": "辽源114",
+    "latitude": 42.8878,
+    "longitude": 125.1437,
+    "name": "辽源"
+  },
+  {
+    "key": "吉林114",
+    "latitude": 43.1520,
+    "longitude": 126.4371,
+    "name": "吉林"
+  }
+]
